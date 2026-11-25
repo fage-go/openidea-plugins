@@ -4,3 +4,8 @@ repository = "https://github.com/fage-go/openidea-android-tools"
 version = "1.0.0"
 package = "https://github.com/fage-go/openidea-android-tools/releases/download/v1.0.0/fage.android-tools-1.0.0.oiplugin"
 sha256 = "ef134636e184211dc94e711def592eb79c8c05e4e02e2631f7fe339184c2347c"
+
+[[versions]]
+version = "1.1.0"
+package = "https://github.com/fage-go/openidea-android-tools/releases/download/v1.1.0/fage.android-tools-1.1.0.oiplugin"
+sha256 = "1e27825adc57a3b4e0484f468edfc92991fef54618e34ad8bdf280ec4de7d0f8"
